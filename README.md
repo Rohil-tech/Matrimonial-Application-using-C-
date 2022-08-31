@@ -1,4 +1,4 @@
-# Matrimonial-Application-using-C
+# Matrimonial-Application-using-C++
 
 ## Welcome Page
 ![image](https://user-images.githubusercontent.com/71378339/187273653-2d5cb5c9-51ae-4a76-bfb6-b75b1bf84257.png)
