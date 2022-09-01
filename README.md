@@ -1,5 +1,7 @@
 # Matrimonial-Application-using-C++
 
+A simple matrimonial application built using data file handling in C++
+
 ## Welcome Page
 ![image](https://user-images.githubusercontent.com/71378339/187273653-2d5cb5c9-51ae-4a76-bfb6-b75b1bf84257.png)
 
